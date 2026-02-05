@@ -1,8 +1,0 @@
-# Dependencies (Heavy junk files)
-node_modules/
-
-# Secrets (NEVER upload these)
-.env
-
-# Local History (Your test logs)
-memory.json
